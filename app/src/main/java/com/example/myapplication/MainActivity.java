@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
             @Override
             public void onClick(View view) {
 //                play();
-                startMirror();
             }
         });
 
